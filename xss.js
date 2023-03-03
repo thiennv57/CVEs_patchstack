@@ -1,1 +1,1 @@
-alert(document.coookie)
+alert(origin)
